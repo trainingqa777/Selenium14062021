@@ -21,7 +21,7 @@ public class ExcelWorks {
 	public static String path = "C:\\MySampleWorks\\TestData.xlsx";
 	
 	public static void main(String[] args) {
-		PrintAllData();
+		printAllData();
 		//readFromExcel(1,1);
 	}
 	
